@@ -1,4 +1,3 @@
-><
 # @DABBAowner GRP#bgmiddoserpython
 
 import telebot
