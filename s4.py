@@ -12,10 +12,10 @@ import os
 # @DABBAowner GRP# insert your Telegram bot token here
 
     
-bot = telebot.TeleBot('7594583741:AAH3zWrkZwNPq2M3pUODI6c2VmvYI_M5fXQ')
+bot = telebot.TeleBot('7629559806:AAHDNZSnXrcZebnkgC4H2o3PyaAGfLGINrE')
 
 # @DABBAowner GRP # Admin user IDs
-admin_id = ["6437994839"]
+admin_id = ["6484371402"]
 
 # @DABBAowner GRP # File to store allowed user IDs
 USER_FILE = "users.txt"
