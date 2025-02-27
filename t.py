@@ -15,7 +15,7 @@ logging.basicConfig(
 )
 
 # Bot Configuration
-TELEGRAM_BOT_TOKEN = '7246047709:AAElzJRbgodpAq62ql3aSF2CVXkMbHqdzvA'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '7624694285:AAF3AT9qfdvBE1Yu1hqiPRahJT419tPhTFk'  # Replace with your bot token
 OWNER_USERNAME = "DABBAowner"  # Replace with your Telegram username (without @)
 ALLOWED_GROUP_ID = -1002389268537  # Replace with your allowed group ID
 MAX_THREADS = 1200  # Default max threads
